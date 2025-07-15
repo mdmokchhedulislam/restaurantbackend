@@ -14,6 +14,6 @@ jobs:
     steps:
     - name: read
       run: |
-        echo "welcome to bd of bangladesh"
+        echo welcome to bd of bangladesh
      
     
